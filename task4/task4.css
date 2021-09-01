@@ -1,0 +1,65 @@
+.contaner{
+    height: 700px;
+    width: 100%;
+    margin-top: 20px;
+    
+}
+
+ h4{
+color: rgb(4, 167, 4);
+text-align: center;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+h5 ,p{
+    color: white;
+    text-align: center;
+}
+.form{
+    height: 500px;
+    width: 60%;
+    margin: auto;
+}
+.message{
+    height: 100%;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.938);
+    float: left;}
+
+.input{
+    border: 0px;
+    border-bottom: 1px solid gray ;
+    height: 30px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 5%;
+    margin-left: 5%;
+
+    background-color: rgba(0, 0, 0, 0);
+}
+.info{
+    height: 100%;
+    width: 30%;
+    float: left;
+    background-color: black;
+}
+.button{
+    margin-left: 10%;
+    width: 80%;
+    background-color: rgb(93, 177, 9);
+    padding: 5px;
+    border: 1px solid black;
+}
+.box{
+    border: 0px;
+    border-bottom: 1px solid gray ;
+    height: 149px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    background-color: rgba(0, 0, 0, 0);
+   
+}
