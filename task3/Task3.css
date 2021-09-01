@@ -1,0 +1,53 @@
+.section-title h4{
+    color: forestgreen;
+    margin-top: 20px;
+}
+
+.line{
+    height: 0.5px;
+    width: 270px;
+    background-color: gray;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+
+
+.all{
+    height: 600px;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.section-title{
+    height: 22%;
+    width: 100%;
+    text-align: center;
+}
+.section-info{
+    height: 78%;
+    width: 100%;
+}
+.item{
+    height: 200px;
+    width: 45%;
+    float: left;
+    margin-left: 3.5%;
+    margin-bottom: 3%;
+}
+.icon{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.info{
+    height: 100%;
+    width: 80%;
+    float: left;
+
+
+}
+.icon img {
+    margin-top: 18px;
+    margin-left: 30%;
+}
