@@ -1,0 +1,23 @@
+.container{
+
+    margin-top: 100px;
+    width: 100%;
+    height: 400px;
+    /* background-color: lemonchiffon; */
+   
+}
+.item{
+    float: left;
+    margin-left: 84px;
+    width: 25%;
+    height: 100%;
+    background-color: #f9f9fdee;
+}
+img{
+    margin-top: 30px;
+    margin-left: 28%;
+    
+}
+.d{
+    text-align: center;
+}
