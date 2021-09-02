@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+}
+.contaner{
+    height: 540px;
+    width: 100%;
+    color: black;
+    text-align: center;
+background-image: url(1.jpg);    
+background-size: cover;
+position: relative
+}
+.overlayer{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(137, 43, 226, 0.315);
+}
+.text p{
+
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+    font-size: 16px;
+}
+.contaner h1{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 60px;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    
+}
+.text{
+    position: absolute;
+    top: 20px;
+    left: 25%;
+}
+.text button{
+    
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 8px 25px;
+    font-weight: bold;
+    margin-top:100px;
+}
+.text button:hover{
+    padding: 10px 30px;
+    
+}
